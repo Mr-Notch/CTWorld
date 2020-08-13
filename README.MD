@@ -148,4 +148,6 @@ world_functions:
     seed: 1234567890
     allowFlight=true
 ```
+### zh_CN.yml
+这是PFWR的语言文件，英语同理
 
